@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HybridMC.aternos.me",
+    "ip": "HybridMC.aternos.me:44342",
     "port": 44342,
     "version": "",
     "try-creative": false
